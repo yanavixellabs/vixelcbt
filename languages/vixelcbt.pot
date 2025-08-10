@@ -1,0 +1,320 @@
+# VixelCBT Language Template
+# Copyright (C) 2025 VixelCBT Team
+# This file is distributed under the GPLv3 license.
+msgid ""
+msgstr ""
+"Project-Id-Version: VixelCBT 1.0.0\n"
+"Report-Msgid-Bugs-To: https://vixelcbt.com/support\n"
+"POT-Creation-Date: 2025-01-01 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: vixelcbt.php:100
+msgid "VixelCBT"
+msgstr ""
+
+#: admin/class-admin.php:45
+msgid "Dashboard"
+msgstr ""
+
+#: admin/class-admin.php:54
+msgid "Modul"
+msgstr ""
+
+#: admin/class-admin.php:63
+msgid "Bank Soal"
+msgstr ""
+
+#: admin/class-admin.php:72
+msgid "Peserta"
+msgstr ""
+
+#: admin/class-admin.php:81
+msgid "Kelompok & Sesi"
+msgstr ""
+
+#: admin/class-admin.php:90
+msgid "Hasil Ujian"
+msgstr ""
+
+#: admin/class-admin.php:99
+msgid "Pengaturan"
+msgstr ""
+
+#: admin/class-admin.php:108
+msgid "Logs"
+msgstr ""
+
+#: admin/class-admin.php:117
+msgid "Panduan"
+msgstr ""
+
+#: admin/partials/dashboard.php:25
+msgid "VixelCBT Dashboard"
+msgstr ""
+
+#: admin/partials/dashboard.php:40
+msgid "Total Peserta"
+msgstr ""
+
+#: admin/partials/dashboard.php:50
+msgid "Sesi Aktif"
+msgstr ""
+
+#: admin/partials/dashboard.php:60
+msgid "Ujian Hari Ini"
+msgstr ""
+
+#: admin/partials/dashboard.php:70
+msgid "Total Modul"
+msgstr ""
+
+#: admin/partials/dashboard.php:78
+msgid "Aksi Cepat"
+msgstr ""
+
+#: admin/partials/dashboard.php:82
+msgid "Buat Modul Baru"
+msgstr ""
+
+#: admin/partials/dashboard.php:87
+msgid "Buat Sesi Ujian"
+msgstr ""
+
+#: admin/partials/dashboard.php:92
+msgid "Import Peserta"
+msgstr ""
+
+#: admin/partials/dashboard.php:97
+msgid "Lihat Hasil"
+msgstr ""
+
+#: admin/partials/dashboard.php:102
+msgid "Generator Halaman"
+msgstr ""
+
+#: admin/partials/dashboard.php:107
+msgid "Pengaturan"
+msgstr ""
+
+#: admin/partials/dashboard.php:114
+msgid "Aktivitas Terbaru"
+msgstr ""
+
+#: admin/partials/dashboard.php:129
+msgid "ago"
+msgstr ""
+
+#: admin/partials/dashboard.php:135
+msgid "Belum ada aktivitas terbaru."
+msgstr ""
+
+#: admin/partials/dashboard.php:141
+msgid "Informasi Sistem"
+msgstr ""
+
+#: admin/partials/dashboard.php:146
+msgid "Plugin Version"
+msgstr ""
+
+#: admin/partials/dashboard.php:151
+msgid "WordPress Version"
+msgstr ""
+
+#: admin/partials/dashboard.php:156
+msgid "PHP Version"
+msgstr ""
+
+#: admin/partials/dashboard.php:161
+msgid "Database"
+msgstr ""
+
+#: public/shortcodes/register.php:45
+msgid "Anda sudah terdaftar dan login."
+msgstr ""
+
+#: public/shortcodes/register.php:54
+msgid "Username"
+msgstr ""
+
+#: public/shortcodes/register.php:59
+msgid "Email"
+msgstr ""
+
+#: public/shortcodes/register.php:65
+msgid "Password"
+msgstr ""
+
+#: public/shortcodes/register.php:70
+msgid "Confirm Password"
+msgstr ""
+
+#: public/shortcodes/register.php:76
+msgid "Nama Lengkap"
+msgstr ""
+
+#: public/shortcodes/register.php:86
+msgid "NISN"
+msgstr ""
+
+#: public/shortcodes/register.php:91
+msgid "NPSN"
+msgstr ""
+
+#: public/shortcodes/register.php:100
+msgid "Sekolah"
+msgstr ""
+
+#: public/shortcodes/register.php:109
+msgid "Jurusan"
+msgstr ""
+
+#: public/shortcodes/register.php:114
+msgid "Kelas"
+msgstr ""
+
+#: public/shortcodes/register.php:123
+msgid "No. Telepon"
+msgstr ""
+
+#: public/shortcodes/register.php:132
+msgid "Upload KTP"
+msgstr ""
+
+#: public/shortcodes/register.php:141
+msgid "Upload KK"
+msgstr ""
+
+#: public/shortcodes/register.php:152
+msgid "Daftar Sekarang"
+msgstr ""
+
+#: public/shortcodes/register.php:157
+msgid "Sudah punya akun?"
+msgstr ""
+
+#: public/shortcodes/register.php:157
+msgid "Login di sini"
+msgstr ""
+
+#: public/shortcodes/register.php:190
+msgid "Anda sudah login."
+msgstr ""
+
+#: public/shortcodes/register.php:190
+msgid "Ke Dashboard"
+msgstr ""
+
+#: public/shortcodes/register.php:199
+msgid "Username / Email"
+msgstr ""
+
+#: public/shortcodes/register.php:205
+msgid "Password"
+msgstr ""
+
+#: public/shortcodes/register.php:212
+msgid "Remember Me"
+msgstr ""
+
+#: public/shortcodes/register.php:218
+msgid "Login"
+msgstr ""
+
+#: public/shortcodes/register.php:223
+msgid "Belum punya akun? Daftar di sini"
+msgstr ""
+
+#: public/shortcodes/register.php:224
+msgid "Lupa Password?"
+msgstr ""
+
+#: public/shortcodes/register.php:256
+msgid "Anda harus login terlebih dahulu."
+msgstr ""
+
+#: public/shortcodes/register.php:256
+msgid "Login"
+msgstr ""
+
+#: public/shortcodes/register.php:266
+msgid "Selamat datang, %s"
+msgstr ""
+
+#: public/shortcodes/register.php:269
+msgid "Logout"
+msgstr ""
+
+#: public/shortcodes/register.php:280
+msgid "Profil"
+msgstr ""
+
+#: public/shortcodes/register.php:283
+msgid "Riwayat Ujian"
+msgstr ""
+
+#: public/shortcodes/register.php:286
+msgid "Modul Tersedia"
+msgstr ""
+
+#: public/shortcodes/register.php:289
+msgid "Status Kelulusan"
+msgstr ""
+
+#: includes/helpers.php:65
+msgid "%d minutes"
+msgstr ""
+
+#: includes/helpers.php:73
+msgid "%d hours"
+msgstr ""
+
+#: includes/helpers.php:77
+msgid "%d hours %d minutes"
+msgstr ""
+
+#: includes/helpers.php:87
+msgid "PASSED"
+msgstr ""
+
+#: includes/helpers.php:94
+msgid "NOT PASSED"
+msgstr ""
+
+#: includes/helpers.php:104
+msgid "Security check failed. Please try again."
+msgstr ""
+
+#: includes/helpers.php:112
+msgid "You do not have permission to perform this action."
+msgstr ""
+
+#: includes/roles.php:20
+msgid "VixelCBT Admin"
+msgstr ""
+
+#: includes/roles.php:35
+msgid "VixelCBT Proctor"
+msgstr ""
+
+#: includes/roles.php:46
+msgid "VixelCBT Staff"
+msgstr ""
+
+#: includes/roles.php:78
+msgid "Proctor"
+msgstr ""
+
+#: includes/roles.php:79
+msgid "Staff"
+msgstr ""
+
+#: includes/roles.php:80
+msgid "Participant"
+msgstr ""
